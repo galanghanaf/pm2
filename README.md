@@ -34,6 +34,6 @@ pm2 list
 pm2 startup
 ```
 
-- after `pm2 startup` showing popup, copy the code
+- after `pm2 startup`, copy the code
 - running the code in terminal
 - done
