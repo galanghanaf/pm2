@@ -1,6 +1,6 @@
 # Ubuntu 20.04
 
-### NodeJs 18.18.0
+### NodeJS 18.18.0
 
 - Create folder
 
