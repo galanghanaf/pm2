@@ -1,7 +1,5 @@
 # Ubuntu 20.04
-
-### NodeJS 18.18.0
-
+## Setup
 - Create folder
 
 ```
@@ -37,3 +35,24 @@ pm2 startup
 - after `pm2 startup`, copy the code
 - running the code in terminal
 - done
+
+## Managing Processes
+```
+pm2 list
+```
+
+```
+pm2 restart app_name
+```
+
+```
+pm2 reload app_name
+```
+
+```
+pm2 stop app_name
+```
+
+```
+pm2 delete app_name
+```
