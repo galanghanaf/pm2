@@ -1,16 +1,6 @@
 # Ubuntu 20.04
 ## Setup
-- Create folder
-
-```
-mkdir example
-```
-
-```
-cd example
-```
-
-- Install module
+- Install the module globally
 
 ```
 npm install -g pm2
