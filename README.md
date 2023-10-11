@@ -7,7 +7,7 @@ npm install -g pm2
 ```
 
 ```
-pm2 start var/www/htlml/project/location.js
+pm2 start /var/www/html/project/location.js
 ```
 
 ```
